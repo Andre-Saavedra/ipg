@@ -1,6 +1,9 @@
 h1{
-    color: darkred
-}
+    color: darkred;
+    background-color: bisque;
+    padding: 10px;
+    border: 2px groove black;
+    margin-bottom : 10px;
 
 h2 {
     color: darkred
