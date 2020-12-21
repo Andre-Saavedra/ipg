@@ -142,3 +142,8 @@ nav ul li a{
     text-decoration:none;
     color:darkred;
 }
+
+tbody tr:nth-child(odd){
+    background-color:darkred;
+    color:white;
+}
